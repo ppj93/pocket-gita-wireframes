@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="109" x="10" y="10" width="800" height="1102" text="Browser&#xA;http://www.pocketgita.com" measuredWidth="800" measuredHeight="1102">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="8" y="103" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:VScrollbar" id="4" x="791" y="104" height="947" measuredWidth="17" measuredHeight="947"/>
+  <widgets xsi:type="model:Placeholder" id="5" x="40" y="72" text="Logo" measuredWidth="48" measuredHeight="34"/>
+  <widgets xsi:type="model:Label" id="6" x="144" y="78" text="Categories" measuredWidth="63" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="240" y="78" text="Art Gallery" measuredWidth="62" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="352" y="79" text="Articles" measuredWidth="45" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="448" y="79" text="About" measuredWidth="40" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="520" y="79" text="Feedback" measuredWidth="58" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="602" y="79" text="Contribute" measuredWidth="64" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="13" x="709" y="80" width="17" height="19" measuredWidth="17" measuredHeight="19" icon="find (large)"/>
+  <widgets xsi:type="model:HLine" id="17" x="17" y="1047" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:ProgressBar" id="18" x="74" y="1079" width="601" measuredWidth="601" measuredHeight="18"/>
+  <widgets xsi:type="model:Label" id="19" x="74" y="1059" width="316" text="Track1" measuredWidth="316" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SVGImage" id="20" x="18" y="1052" width="57" height="50" measuredWidth="57" measuredHeight="50" src="assets/GlyphiconsIcons/gl-play-circle.svg"/>
+  <widgets xsi:type="model:SVGImage" id="21" x="706" y="1073" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/GlyphiconsIcons/gl-heart-empty.svg"/>
+  <widgets xsi:type="model:SVGImage" id="22" x="735" y="1073" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/GlyphiconsIcons/gl-download.svg"/>
+  <widgets xsi:type="model:SVGImage" id="23" x="772" y="1073" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/MaterialDesignIcons/ic_playlist_add.svg"/>
+  <widgets xsi:type="model:SVGImage" id="24" x="677" y="1073" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/MaterialDesignIcons/ic_volume_up.svg"/>
+  <widgets xsi:type="model:Label" id="26" x="641" y="1050" text="5:20" measuredWidth="31" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="27" x="396" y="1061" width="23" height="17" measuredWidth="23" measuredHeight="17" icon="filled-arrow-down (large)"/>
+  <widgets xsi:type="model:Icon" id="57" x="751" y="73" width="26" height="26" measuredWidth="26" measuredHeight="26" icon="user (large)"/>
+  <widgets xsi:type="model:Icon" id="64" x="104" y="520" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="65" x="311" y="520" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="66" x="520" y="520" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="73" x="104" y="696" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="74" x="311" y="696" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="75" x="520" y="696" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="91" x="104" y="872" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="92" x="311" y="872" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="93" x="520" y="872" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="97" x="104" y="632" text="Album 1" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="98" x="311" y="984" text="Album 8" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="99" x="104" y="984" text="Album 7" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="101" x="311" y="806" text="Album 5" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="102" x="104" y="810" text="Album 4" measuredWidth="59" measuredHeight="26">
+    <font size="15px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="103" x="522" y="632" text="Album 3" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="104" x="311" y="632" text="Album 2" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="105" x="520" y="984" text="Album 9" measuredWidth="75" measuredHeight="31">
+    <font size="19px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="106" x="520" y="810" text="Album 6" measuredWidth="67" measuredHeight="29">
+    <font size="17px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="111" x="102" y="147" text="Parenting" measuredWidth="106" measuredHeight="37">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:VideoPlayer" id="110" x="192" y="219" width="424" height="248" measuredWidth="424" measuredHeight="248"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
