@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Browser" id="2" x="12" y="11" width="800" height="950" text="Browser&#xA;http://www.pocketgita.com" measuredWidth="800" measuredHeight="950">
+  <widgets xsi:type="model:Browser" id="2" x="12" y="11" width="800" height="1102" text="Browser&#xA;http://www.pocketgita.com" measuredWidth="800" measuredHeight="1102">
     <font/>
   </widgets>
   <widgets xsi:type="model:HLine" id="3" x="8" y="103" width="800" measuredWidth="800" measuredHeight="6"/>
-  <widgets xsi:type="model:VScrollbar" id="4" x="791" y="104" height="798" measuredWidth="17" measuredHeight="798"/>
+  <widgets xsi:type="model:VScrollbar" id="4" x="791" y="104" height="1008" measuredWidth="17" measuredHeight="1008"/>
   <widgets xsi:type="model:Placeholder" id="5" x="40" y="72" text="Logo" measuredWidth="48" measuredHeight="34"/>
   <widgets xsi:type="model:Label" id="6" x="144" y="78" text="Categories" measuredWidth="63" measuredHeight="22">
     <font/>
@@ -25,31 +25,14 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:Icon" id="13" x="709" y="80" width="17" height="19" measuredWidth="17" measuredHeight="19" icon="find (large)"/>
-  <widgets xsi:type="model:HLine" id="17" x="8" y="901" width="800" measuredWidth="800" measuredHeight="6"/>
-  <widgets xsi:type="model:ProgressBar" id="18" x="65" y="933" width="601" measuredWidth="601" measuredHeight="18"/>
-  <widgets xsi:type="model:Label" id="19" x="65" y="913" width="316" text="Track1" measuredWidth="316" measuredHeight="22">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:SVGImage" id="20" x="9" y="906" width="57" height="50" measuredWidth="57" measuredHeight="50" src="assets/GlyphiconsIcons/gl-play-circle.svg"/>
-  <widgets xsi:type="model:SVGImage" id="21" x="697" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/GlyphiconsIcons/gl-heart-empty.svg"/>
-  <widgets xsi:type="model:SVGImage" id="22" x="726" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/GlyphiconsIcons/gl-download.svg"/>
-  <widgets xsi:type="model:SVGImage" id="23" x="763" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/MaterialDesignIcons/ic_playlist_add.svg"/>
-  <widgets xsi:type="model:SVGImage" id="24" x="668" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/MaterialDesignIcons/ic_volume_up.svg"/>
-  <widgets xsi:type="model:Label" id="26" x="635" y="861" text="5:20" measuredWidth="31" measuredHeight="22">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Icon" id="27" x="364" y="856" width="23" height="17" measuredWidth="23" measuredHeight="17" icon="filled-arrow-down (large)"/>
   <widgets xsi:type="model:Icon" id="54" x="10" y="10" measuredWidth="32" measuredHeight="32" icon="image (large)"/>
   <widgets xsi:type="model:Icon" id="57" x="751" y="73" width="26" height="26" measuredWidth="26" measuredHeight="26" icon="user (large)"/>
   <widgets xsi:type="model:Label" id="58" x="10" y="10" text="Label" measuredWidth="34" measuredHeight="22">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="59" x="92" y="136" text="Explore our categories and find what interests you !" measuredWidth="345" measuredHeight="24">
-    <font size="13px" bold="true" italic="true"/>
-  </widgets>
-  <widgets xsi:type="model:Panel" id="60" x="91" y="192" width="639" height="401" measuredWidth="639" measuredHeight="401"/>
+  <widgets xsi:type="model:Panel" id="60" x="91" y="192" width="660" height="361" measuredWidth="660" measuredHeight="361"/>
   <widgets xsi:type="model:Icon" id="64" x="97" y="202" width="210" height="287" measuredWidth="210" measuredHeight="287" icon="image (large)"/>
-  <widgets xsi:type="model:Label" id="97" x="306" y="208" text="Parenting" measuredWidth="86" measuredHeight="31">
+  <widgets xsi:type="model:Label" id="97" x="92" y="136" width="100" text="Parenting" measuredWidth="100" measuredHeight="31">
     <font size="19px" bold="false" italic="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="107" x="10" y="10" text="Label" measuredWidth="34" measuredHeight="22">
@@ -58,17 +41,17 @@
   <widgets xsi:type="model:Label" id="108" x="306" y="238" text="Release date: 01 Mar 2016" measuredWidth="153" measuredHeight="22">
     <font/>
   </widgets>
-  <widgets xsi:type="model:ProgressBar" id="110" x="149" y="553" width="402" measuredWidth="402" measuredHeight="18"/>
-  <widgets xsi:type="model:SVGImage" id="112" x="97" y="533" width="53" height="45" measuredWidth="53" measuredHeight="45" src="assets/GlyphiconsIcons/gl-play-circle.svg"/>
-  <widgets xsi:type="model:SVGImage" id="113" x="596" y="541" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/GlyphiconsIcons/gl-heart-empty.svg"/>
-  <widgets xsi:type="model:SVGImage" id="114" x="636" y="541" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/GlyphiconsIcons/gl-download.svg"/>
-  <widgets xsi:type="model:SVGImage" id="115" x="678" y="541" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/MaterialDesignIcons/ic_playlist_add.svg"/>
-  <widgets xsi:type="model:SVGImage" id="116" x="556" y="541" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/MaterialDesignIcons/ic_volume_up.svg"/>
+  <widgets xsi:type="model:ProgressBar" id="110" x="144" y="504" width="402" measuredWidth="402" measuredHeight="18"/>
+  <widgets xsi:type="model:SVGImage" id="112" x="92" y="484" width="53" height="45" measuredWidth="53" measuredHeight="45" src="assets/GlyphiconsIcons/gl-play-circle.svg"/>
+  <widgets xsi:type="model:SVGImage" id="113" x="591" y="492" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/GlyphiconsIcons/gl-heart-empty.svg"/>
+  <widgets xsi:type="model:SVGImage" id="114" x="631" y="492" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/GlyphiconsIcons/gl-download.svg"/>
+  <widgets xsi:type="model:SVGImage" id="115" x="673" y="492" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/MaterialDesignIcons/ic_playlist_add.svg"/>
+  <widgets xsi:type="model:SVGImage" id="116" x="551" y="492" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/MaterialDesignIcons/ic_volume_up.svg"/>
   <widgets xsi:type="model:Panel" id="117" x="301" y="311" width="415" height="43" measuredWidth="415" measuredHeight="43"/>
   <widgets xsi:type="model:Panel" id="118" x="301" y="360" width="414" height="43" measuredWidth="414" measuredHeight="43"/>
   <widgets xsi:type="model:Panel" id="119" x="301" y="408" width="415" height="43" measuredWidth="415" measuredHeight="43"/>
   <widgets xsi:type="model:Panel" id="120" x="301" y="259" width="415" height="43" measuredWidth="415" measuredHeight="43"/>
-  <widgets xsi:type="model:Label" id="121" x="149" y="533" text="Noiw Playing: Track 1" measuredWidth="123" measuredHeight="22">
+  <widgets xsi:type="model:Label" id="121" x="144" y="484" text="Noiw Playing: Track 1" measuredWidth="123" measuredHeight="22">
     <font/>
   </widgets>
   <widgets xsi:type="model:SVGImage" id="122" x="306" y="264" width="39" height="34" measuredWidth="39" measuredHeight="34" src="assets/GlyphiconsIcons/gl-play-circle.svg"/>
@@ -99,6 +82,30 @@
   <widgets xsi:type="model:SVGImage" id="143" x="606" y="415" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/GlyphiconsIcons/gl-heart-empty.svg"/>
   <widgets xsi:type="model:SVGImage" id="144" x="646" y="415" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/GlyphiconsIcons/gl-download.svg"/>
   <widgets xsi:type="model:SVGImage" id="145" x="688" y="415" width="28" height="30" measuredWidth="28" measuredHeight="30" src="assets/MaterialDesignIcons/ic_playlist_add.svg"/>
+  <widgets xsi:type="model:VScrollbar" id="146" x="726" y="259" height="193" measuredWidth="17" measuredHeight="193"/>
+  <widgets xsi:type="model:Label" id="147" x="97" y="584" text="Album description" measuredWidth="193" measuredHeight="37">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="148" x="97" y="624" width="654" height="120" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." measuredWidth="654" measuredHeight="120">
+    <font size="16px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="149" x="101" y="760" text="Album Promo" measuredWidth="147" measuredHeight="37">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:VideoPlayer" id="150" x="185" y="800" width="462" measuredWidth="462" measuredHeight="200"/>
+  <widgets xsi:type="model:Panel" id="151" x="12" y="1048" width="781" height="64" measuredWidth="781" measuredHeight="64"/>
+  <widgets xsi:type="model:Icon" id="152" x="32" y="1064" measuredWidth="32" measuredHeight="32" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="153" x="120" y="1064" measuredWidth="32" measuredHeight="32" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="154" x="235" y="1064" measuredWidth="32" measuredHeight="32" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="155" x="72" y="1068" width="35" text="FB" measuredWidth="35" measuredHeight="24">
+    <font size="13px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="156" x="160" y="1068" width="56" text="Twitter" measuredWidth="56" measuredHeight="24">
+    <font size="13px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="157" x="272" y="1068" width="96" text="Sound cloud" measuredWidth="96" measuredHeight="24">
+    <font size="13px" bold="true" italic="true"/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
