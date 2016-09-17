@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="2" x="8" y="11" width="800" height="950" text="Browser&#xA;http://www.pocketgita.com" measuredWidth="800" measuredHeight="950">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="8" y="103" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:VScrollbar" id="4" x="791" y="104" height="798" measuredWidth="17" measuredHeight="798"/>
+  <widgets xsi:type="model:Placeholder" id="5" x="40" y="72" text="Logo" measuredWidth="48" measuredHeight="34"/>
+  <widgets xsi:type="model:Label" id="6" x="144" y="78" text="Categories" measuredWidth="63" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="240" y="78" text="Art Gallery" measuredWidth="62" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="352" y="79" text="Articles" measuredWidth="45" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="448" y="79" text="About" measuredWidth="40" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="520" y="79" text="Feedback" measuredWidth="58" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="602" y="79" text="Contribute" measuredWidth="64" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="13" x="709" y="80" width="17" height="19" measuredWidth="17" measuredHeight="19" icon="find (large)"/>
+  <widgets xsi:type="model:HLine" id="17" x="8" y="901" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:ProgressBar" id="18" x="65" y="933" width="601" measuredWidth="601" measuredHeight="18"/>
+  <widgets xsi:type="model:Label" id="19" x="65" y="913" width="316" text="Track1" measuredWidth="316" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SVGImage" id="20" x="9" y="906" width="57" height="50" measuredWidth="57" measuredHeight="50" src="assets/GlyphiconsIcons/gl-play-circle.svg"/>
+  <widgets xsi:type="model:SVGImage" id="21" x="697" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/GlyphiconsIcons/gl-heart-empty.svg"/>
+  <widgets xsi:type="model:SVGImage" id="22" x="726" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/GlyphiconsIcons/gl-download.svg"/>
+  <widgets xsi:type="model:SVGImage" id="23" x="763" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/MaterialDesignIcons/ic_playlist_add.svg"/>
+  <widgets xsi:type="model:SVGImage" id="24" x="668" y="927" width="30" height="30" measuredWidth="30" measuredHeight="30" src="assets/MaterialDesignIcons/ic_volume_up.svg"/>
+  <widgets xsi:type="model:Label" id="26" x="635" y="861" text="5:20" measuredWidth="31" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="27" x="364" y="856" width="23" height="17" measuredWidth="23" measuredHeight="17" icon="filled-arrow-down (large)"/>
+  <widgets xsi:type="model:Icon" id="54" x="10" y="10" measuredWidth="32" measuredHeight="32" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="57" x="751" y="73" width="26" height="26" measuredWidth="26" measuredHeight="26" icon="user (large)"/>
+  <widgets xsi:type="model:Label" id="58" x="10" y="10" text="Label" measuredWidth="34" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="59" x="92" y="136" text="Explore our categories and find what interests you !" measuredWidth="345" measuredHeight="24">
+    <font size="13px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="60" x="92" y="176" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Panel" id="61" x="299" y="176" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Panel" id="62" x="508" y="176" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Icon" id="64" x="102" y="176" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="65" x="309" y="176" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="66" x="518" y="176" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Text" id="67" x="102" y="304" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="68" x="518" y="304" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="69" x="309" y="310" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="70" x="92" y="416" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Panel" id="71" x="299" y="416" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Panel" id="72" x="508" y="416" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Icon" id="73" x="102" y="416" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="74" x="309" y="416" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="75" x="518" y="416" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Text" id="76" x="102" y="544" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="77" x="518" y="544" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="78" x="309" y="550" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="88" x="92" y="656" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Panel" id="89" x="299" y="656" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Panel" id="90" x="508" y="656" width="189" height="225" measuredWidth="189" measuredHeight="225"/>
+  <widgets xsi:type="model:Icon" id="91" x="102" y="656" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="92" x="309" y="656" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Icon" id="93" x="518" y="656" width="179" height="129" measuredWidth="179" measuredHeight="129" icon="image (large)"/>
+  <widgets xsi:type="model:Text" id="94" x="102" y="784" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="95" x="518" y="784" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="96" x="309" y="790" width="167" height="81" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." measuredWidth="167" measuredHeight="81">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
